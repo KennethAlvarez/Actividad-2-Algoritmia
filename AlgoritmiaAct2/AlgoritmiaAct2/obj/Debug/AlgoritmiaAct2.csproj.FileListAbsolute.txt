@@ -1,0 +1,21 @@
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct2\AlgoritmiaAct2\bin\Debug\AlgoritmiaAct2.exe
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct2\AlgoritmiaAct2\bin\Debug\AlgoritmiaAct2.pdb
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct2\AlgoritmiaAct2\obj\Debug\AlgoritmiaAct2.csprojResolveAssemblyReference.cache
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct2\AlgoritmiaAct2\obj\Debug\AlgoritmiaAct2.MainForm.resources
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct2\AlgoritmiaAct2\obj\Debug\AlgoritmiaAct2.csproj.GenerateResource.Cache
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct2\AlgoritmiaAct2\obj\Debug\AlgoritmiaAct2.exe
+C:\Users\1GX69LA_RS4\Documents\SharpDevelop Projects\AlgoritmiaAct2\AlgoritmiaAct2\obj\Debug\AlgoritmiaAct2.pdb
+C:\Users\Usuario\Desktop\AlgoritmiaAct2\AlgoritmiaAct2\bin\Debug\AlgoritmiaAct2.exe
+C:\Users\Usuario\Desktop\AlgoritmiaAct2\AlgoritmiaAct2\bin\Debug\AlgoritmiaAct2.pdb
+C:\Users\Usuario\Desktop\AlgoritmiaAct2\AlgoritmiaAct2\obj\Debug\AlgoritmiaAct2.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\AlgoritmiaAct2\AlgoritmiaAct2\obj\Debug\AlgoritmiaAct2.MainForm.resources
+C:\Users\Usuario\Desktop\AlgoritmiaAct2\AlgoritmiaAct2\obj\Debug\AlgoritmiaAct2.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\AlgoritmiaAct2\AlgoritmiaAct2\obj\Debug\AlgoritmiaAct2.exe
+C:\Users\Usuario\Desktop\AlgoritmiaAct2\AlgoritmiaAct2\obj\Debug\AlgoritmiaAct2.pdb
+C:\Users\1GX69LA_RS4\Desktop\AlgoritmiaAct2\AlgoritmiaAct2\bin\Debug\AlgoritmiaAct2.exe
+C:\Users\1GX69LA_RS4\Desktop\AlgoritmiaAct2\AlgoritmiaAct2\bin\Debug\AlgoritmiaAct2.pdb
+C:\Users\1GX69LA_RS4\Desktop\AlgoritmiaAct2\AlgoritmiaAct2\obj\Debug\AlgoritmiaAct2.csprojResolveAssemblyReference.cache
+C:\Users\1GX69LA_RS4\Desktop\AlgoritmiaAct2\AlgoritmiaAct2\obj\Debug\AlgoritmiaAct2.MainForm.resources
+C:\Users\1GX69LA_RS4\Desktop\AlgoritmiaAct2\AlgoritmiaAct2\obj\Debug\AlgoritmiaAct2.csproj.GenerateResource.Cache
+C:\Users\1GX69LA_RS4\Desktop\AlgoritmiaAct2\AlgoritmiaAct2\obj\Debug\AlgoritmiaAct2.exe
+C:\Users\1GX69LA_RS4\Desktop\AlgoritmiaAct2\AlgoritmiaAct2\obj\Debug\AlgoritmiaAct2.pdb
